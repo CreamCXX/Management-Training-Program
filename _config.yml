@@ -1,0 +1,30 @@
+repository: https://github.com/CreamCXX/Management-Training-Program
+
+timezone: Asia/Shanghai
+lang: zh_CN
+
+title: Management Training Program
+description: Management Training Program (Draft Template)
+url: http://mtp.creamcxx.com
+
+author: Cream CXX
+
+contact: c@creamcxx.com
+
+image: /apple-touch-icon.png
+logo: /apple-touch-icon.png
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
+- script
+- vendor
